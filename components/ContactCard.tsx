@@ -46,6 +46,7 @@ const ContactCard = ({ toggleState, toggleTab }: ContactProps) => {
         alert(`Error: ${data.error}`);
       }
     } catch (err) {
+      console.error('Contact form error:', err);
       alert('Something went wrong. Try again.');
     }
   };

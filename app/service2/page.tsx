@@ -11,12 +11,6 @@ import { CiCalendarDate } from "react-icons/ci";
 import type { JSX } from "react";
 import ContactCard from "@/components/ContactCard";
 
-type ToolItem = {
-  id: number;
-  name: string;
-  icon: JSX.Element;
-};
-
 export default function Service2() {
   const [toggleState, setToggleState] = useState(0);
 
@@ -91,7 +85,7 @@ export default function Service2() {
           </div>
 
           <div className="space-y-3 my-5">
-            <h2 className="mt-7 text-[20px]">what's included</h2>
+            <h2 className="mt-7 text-[20px]">what&rsquo;s included</h2>
 
             <ul className="space-y-4 list-[square] pl-4">
               <li className="space-y-1">
@@ -100,7 +94,7 @@ export default function Service2() {
                 </h3>
 
                 <p className="text-[16px]">
-                  It's a strategic part. We will create a website layout, color scheme, typography, and other visual elements to ensure the website's aesthetics match your brand vision and goals. Based on website's purpose, target audience, and desired features.
+                  It&rsquo;s a strategic part. We will create a website layout, color scheme, typography, and other visual elements to ensure the website's aesthetics match your brand vision and goals. Based on website&rsquo;s purpose, target audience, and desired features.
                 </p>
               </li>
 
@@ -109,7 +103,7 @@ export default function Service2() {
                   Figma Custom Design & Web Development
                 </h3>
 
-                <p className="text-[16px]">Creative and tech part. You'll get a fully responsive, user-friendly, and bug-free website. It includes basic SEO optimization (correct display of website pages in search engines and social networks), domain and data reception forms connection and integration of additional services if needed.</p>
+                <p className="text-[16px]">Creative and tech part. You&rsquo;ll get a fully responsive, user-friendly, and bug-free website. It includes basic SEO optimization (correct display of website pages in search engines and social networks), domain and data reception forms connection and integration of additional services if needed.</p>
               </li>
 
               <li className="space-y-1">

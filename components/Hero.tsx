@@ -55,12 +55,12 @@ const Hero = ({ toggleTab }: ContactProps) => {
                 <BsGithub />
               </a>
 
-              <a href="/"
+              {/* <a href="/"
                 aria-label="Discord"
                 className="text-2xl bg-blue-500 p-2 rounded-xl"
               >
                 <BsDiscord />
-              </a>
+              </a> */}
             </div>
           </div>
         </Container>

@@ -30,11 +30,11 @@ const SocialMedia: React.FC<SocialMediaProps> = ({showModal, toggleModal}) => {
               <BsTwitterX />
               <span className='capitalize text-black'>twitter</span>
             </a>
-          <a href="/"
+          {/* <a href="/"
           className=' text-xl text-purple-800 flex space-x-4 p-3 hover:bg-[#d4d3d39c]'>
             <BsDiscord />
             <span className='capitalize text-black'>discord</span>
-          </a>
+          </a> */}
       </div>
       </div>
     </div>

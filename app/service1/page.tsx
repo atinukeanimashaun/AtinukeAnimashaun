@@ -1,6 +1,5 @@
 "use client"
 
-import Avatar from "@/components/Avatar";
 import ContactCard from "@/components/ContactCard";
 import Container from "@/components/Container";
 import Header from "@/components/Header";
@@ -74,7 +73,7 @@ export default function Service1() {
             </p>
 
             <p className="text-[16px]">
-              This service is designed with the understanding that <strong>time is of the essence</strong> and you're determined to <strong>achieve quick results</strong>. A professional, fully customized website can be yours in just one week.
+              This service is designed with the understanding that <strong>time is of the essence</strong> and you&rsquo;re determined to <strong>achieve quick results</strong>. A professional, fully customized website can be yours in just one week.
             </p>
           </div>
 
@@ -82,7 +81,7 @@ export default function Service1() {
             <h1 className="font-bold uppercase text-[20px]">faq:</h1>
 
             <h2 className="font-bold text-[18px]">
-              What if I don't have a clear brand vision?
+              What if I don&rsquo;t have a clear brand vision?
             </h2>
 
             <p className="text-[16px]">No worries! I will assist you in defining and refining your brand vision. We work closely to understand your goals and preferences, ensuring the website aligns with your vision.</p>
@@ -91,24 +90,24 @@ export default function Service1() {
               How do I get started?
             </h2>
 
-            <p className="text-[16px] border-b-2 pb-5">Getting started is easy. Contact me for a consultation, and I'll guide you through the process. We'll discuss your requirements, timeline, and any special features you'd like to incorporate into your website.
+            <p className="text-[16px] border-b-2 pb-5">Getting started is easy. Contact me for a consultation, and I&rsquo;ll guide you through the process. We&rsquo;ll discuss your requirements, timeline, and any special features you&rsquo;d like to incorporate into your website.
             </p>
 
             <p className="text-[16px]">
-              In just one week, you'll have a stunning website that not only represents your brand but also embodies your values. This is more than just a website; it's your digital storefront, a powerful tool to showcase your services, products, or ideas to the world.
+              In just one week, you&rsquo;ll have a stunning website that not only represents your brand but also embodies your values. This is more than just a website; it&rsquo;s your digital storefront, a powerful tool to showcase your services, products, or ideas to the world.
             </p>
 
             <h2 className="font-bold text-[18px]">Can I request additional pages or features?</h2>
 
             <p className="text-[16px]">
-              Yes, absolutely! Customizable packages are available to accommodate specific needs. Just let us know what you require, and we'll provide a tailored solution.
+              Yes, absolutely! Customizable packages are available to accommodate specific needs. Just let us know what you require, and we&rsquo;ll provide a tailored solution.
             </p>
 
             <h2 className="font-bold text-[18px]">
               Is Webflow subscription and domain registration included?</h2>
 
             <p className="text-[16px] ">
-              Webflow subscription and domain registration are not included in this package. However, I'll assist you in setting up hosting and domain services if needed.
+              Webflow subscription and domain registration are not included in this package. However, I&rsquo;ll assist you in setting up hosting and domain services if needed.
             </p>
 
             <p className="text-[16px]">
@@ -117,7 +116,7 @@ export default function Service1() {
           </div>
 
           <div className="space-y-3 my-5">
-            <h2 className="mt-7 text-[20px]">what's included</h2>
+            <h2 className="mt-7 text-[20px]">what&rsquo;s included</h2>
 
             <ul className="space-y-4 list-[square] pl-4">
               <li className="space-y-1">
@@ -145,7 +144,7 @@ export default function Service1() {
                 <h3 className="font-bold capitalize text-[18px]">
                   Copywriting Services
                 </h3>
-                <p className="text-[16px]">The website's copy will be reviewed and refined to ensure clear communication of your ideas, values, and offerings. Your message has to resonate with your target audience.</p>
+                <p className="text-[16px]">The website&rsquo;s copy will be reviewed and refined to ensure clear communication of your ideas, values, and offerings. Your message has to resonate with your target audience.</p>
               </li>
 
               <li className="space-y-1 pb-10">

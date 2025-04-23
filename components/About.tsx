@@ -59,12 +59,12 @@ const About = () => {
                   <BsTwitterX />
                 </a>
 
-                <a href="/"
+                {/* <a href="/"
                   aria-label="Discord"
                   className="text-2xl bg-blue-500 p-1 rounded-xl"
                 >
                   <BsDiscord />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
