@@ -8,7 +8,6 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { BsStarFill } from "react-icons/bs";
 import { CiCalendarDate } from "react-icons/ci";
-import type { JSX } from "react";
 import ContactCard from "@/components/ContactCard";
 
 export default function Service2() {

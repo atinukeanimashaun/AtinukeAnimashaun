@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsX, BsLinkedin, BsGithub, BsDiscord, BsTwitterX } from "react-icons/bs";
+import { BsX, BsLinkedin, BsGithub, BsTwitterX } from "react-icons/bs";
 
 interface SocialMediaProps {
   showModal: boolean;

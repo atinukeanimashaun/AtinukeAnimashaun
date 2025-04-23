@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react'
 import { BiChevronDown, BiChevronUp } from 'react-icons/bi';
-import { BsDiscord, BsGithub, BsLinkedin, BsTwitterX } from "react-icons/bs";
+import { BsGithub, BsLinkedin, BsTwitterX } from "react-icons/bs";
 
 const AboutMobile = () => {
   const [accordionOpen, setAccordionOpen] = useState(false);

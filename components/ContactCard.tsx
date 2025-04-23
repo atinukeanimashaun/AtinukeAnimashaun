@@ -77,7 +77,7 @@ const ContactCard = ({ toggleState, toggleTab }: ContactProps) => {
 
           <div>
             <h2 className="font-semibold text-lg md:text-xl">Request to work with Atinuke Animashaun</h2>
-            <p className="text-base pt-1">You have an idea. Let's talk</p>
+            <p className="text-base pt-1">You have an idea. Let&rsquo;s talk</p>
           </div>
         </div>
 

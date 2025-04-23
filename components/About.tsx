@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState } from "react"
 import AboutMobile from "./AboutMobile"
-import { BsDiscord, BsGithub, BsLinkedin, BsTwitterX } from "react-icons/bs";
+import { BsGithub, BsLinkedin, BsTwitterX } from "react-icons/bs";
 import Container from "./Container";
 
 const About = () => {

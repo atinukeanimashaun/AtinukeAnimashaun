@@ -1,7 +1,7 @@
 import React from 'react'
 import Avatar from "@/components/Avatar";
 import Container from "@/components/Container";
-import { BsDiscord, BsGithub, BsLinkedin } from "react-icons/bs";
+import { BsGithub, BsLinkedin } from "react-icons/bs";
 
 type ContactProps = {
   toggleState: number;
