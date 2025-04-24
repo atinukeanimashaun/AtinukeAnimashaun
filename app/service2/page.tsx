@@ -93,7 +93,7 @@ export default function Service2() {
                 </h3>
 
                 <p className="text-[16px]">
-                  It&rsquo;s a strategic part. We will create a website layout, color scheme, typography, and other visual elements to ensure the website's aesthetics match your brand vision and goals. Based on website&rsquo;s purpose, target audience, and desired features.
+                  It&rsquo;s a strategic part. We will create a website layout, color scheme, typography, and other visual elements to ensure the website&rsquo;s aesthetics match your brand vision and goals. Based on website&rsquo;s purpose, target audience, and desired features.
                 </p>
               </li>
 
